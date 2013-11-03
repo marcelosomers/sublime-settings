@@ -2,3 +2,5 @@ Cache/
 Index/
 Local/
 *.cache
+*.last-run
+*.system-ca-bundle
