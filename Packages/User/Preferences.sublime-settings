@@ -12,7 +12,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"spell_check": true,
 	"theme": "Soda Dark 3.sublime-theme",
