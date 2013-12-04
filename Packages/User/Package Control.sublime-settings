@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Better CoffeeScript",
 		"MarkdownEditing",
 		"Sass",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WordCount"
 	]
 }
